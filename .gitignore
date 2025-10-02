@@ -1,0 +1,29 @@
+  # Python
+  __pycache__/
+  *.py[cod]
+  *$py.class
+  *.so
+  .Python
+  env/
+  venv/
+  .venv/
+  ENV/
+
+  # IDEs
+  .vscode/
+  .idea/
+  *.swp
+  *.swo
+
+  # Environment
+  .env
+  .env.local
+
+  # Tests
+  .pytest_cache/
+  .coverage
+  htmlcov/
+
+  # OS
+  .DS_Store
+  Thumbs.db
